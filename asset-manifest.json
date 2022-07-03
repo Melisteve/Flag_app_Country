@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flag_app_Country/static/css/main.adb490ad.css",
+    "main.js": "/Flag_app_Country/static/js/main.e2000bf1.js",
+    "static/media/main.jpg": "/Flag_app_Country/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/Flag_app_Country/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/Flag_app_Country/index.html",
+    "main.adb490ad.css.map": "/Flag_app_Country/static/css/main.adb490ad.css.map",
+    "main.e2000bf1.js.map": "/Flag_app_Country/static/js/main.e2000bf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb490ad.css",
+    "static/js/main.e2000bf1.js"
+  ]
+}
